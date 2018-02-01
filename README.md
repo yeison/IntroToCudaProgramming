@@ -1,1 +1,1 @@
-# IntroToParallelProgramming
+# IntroToCudaProgramming
